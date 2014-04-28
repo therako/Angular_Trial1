@@ -1,0 +1,19 @@
+<div ng-controller="restrauntCtrl">
+	<h1>{{heading}}</h1>
+
+  <ui>
+    <li ng-repeat="restaurant in restaurants">
+      <h2>{{restaurant.name}}</h2>
+      <p>{{restaurant.desc}}</p>
+    </li>
+  </ui>
+
+  <form ng-submit="addNewRestaurant()">
+    <h2>Add New</h2>
+    <label>Name:</label>
+    <input ng-model="newRestaurant.name" type="text"/><br><br>
+    <label>Desc:</label>
+    <input ng-model="newRestaurant.desc" type="text"/><br><br>
+    <button type="submit">Save</button>
+  </form>
+</div>

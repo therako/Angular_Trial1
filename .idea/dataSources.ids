@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails AngularTryout2: development" uuid="607d6ab6-f241-468d-a9d7-acf16ed35c80">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails AngularTryout2: test" uuid="d3595b3e-674e-4c3d-836e-eaa34c1630c8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails AngularTryout2: production" uuid="4bbb70a7-fac0-4602-9172-233b2e6ecc58">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
